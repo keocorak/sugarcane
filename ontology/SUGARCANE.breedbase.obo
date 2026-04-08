@@ -1634,6 +1634,13 @@ def: "Pol is measured in field using a handheld micro-NIR (Viavi)" []
 synonym: "” RELATED []
 relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
 
+[Term]
+id: SUGARCANE:0000195
+name: Plot Weight, subplot - Measurement - lbs
+namespace: sugarcane_trait
+def: "Subplot (row) weight is measured with a weigh wagon and recorded in lbs. Note: no correction factor is applied." []
+synonym: "” RELATED []
+relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
 
 [Typedef]
 id: VARIABLE_OF
