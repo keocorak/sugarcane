@@ -14,6 +14,7 @@
     <li><a href="/tools/gcpc">Genomic Prediction of Parent Combinations</a></li>	
     <li><a href="/pca/analysis">Population Structure (PCA)</a></li>
     <li><a href="/cluster/analysis">Clustering</a></li>
+    <li><a href="/tools/environment_stratification">Environment Stratification</a></li>
     <li><a href="/kinship/analysis">Kinship & Inbreeding</a></li>
     <li><a href="/correlation/analysis">Correlation</a></li>
     <li><a href="/tools/stability">Stability AMMI/GGE</a></li>
