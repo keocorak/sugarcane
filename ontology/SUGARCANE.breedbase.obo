@@ -1642,6 +1642,20 @@ def: "Subplot (row) weight is measured with a weigh wagon and recorded in lbs. N
 synonym: "” RELATED []
 relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
 
+[Term]
+id: SUGARCANE:0000199
+name: MealybugInfestationRating
+namespace: sugarcane_trait
+def: "Rating of pasture mealybug infestation severity on sugarcane plants, scored from 0 (no mealybugs observed) to 3 (multiple large colonies present on several leaves with most leaves below the whorl infested)." []
+relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
+
+[Term]
+id: SUGARCANE:0000200
+name: MealybugDamageRating
+namespace: sugarcane_trait
+def: "Rating of plant damage symptoms associated with pasture mealybug infestation, scored from 0 (normal color, no visible symptoms) to 3 (more than 50% canopy affected with extensive yellowing, necrosis, thinning, or dieback)." []
+relationship: VARIABLE_OF SUGARCANE:0000000 ! Sugarcane Trait Ontology
+
 [Typedef]
 id: VARIABLE_OF
 name: VARIABLE_OF
